@@ -5,6 +5,6 @@ A configured skeleton to deploy Javascript applications on Tomcat server
 
 1) Simply add the content of your javascript build into the WebContent folder of this project
 
-2) Export the project to war file so you can deploy it on Tomcat
+2) Export the project to war file (make sure the name of the war is defined in the JS application) so you can deploy it on Tomcat
 
 3) Deploy your application and you are done !
